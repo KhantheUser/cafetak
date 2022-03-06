@@ -1,0 +1,13 @@
+html{
+    font-size:62.5%;
+}
+.news{
+    background-color: white;
+    font-size:2rem;
+    width:60%;
+    margin-left :10px
+}
+.news_heading{
+    text-align:center;
+    color : #A52A2A;
+}
